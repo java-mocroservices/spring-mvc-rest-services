@@ -1,4 +1,8 @@
 # spring-mvc-rest-servoces
+## Maven Spring Boot Run
+```
+mvn spring-boot:run
+```
 # อธิบาย Dependencies
 
 
